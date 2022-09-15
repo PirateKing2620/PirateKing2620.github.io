@@ -742,3 +742,9 @@ h1, .h1, h2, .h2, h3, .h3, h4, .h4 {
 .carousel-control .glyphicon-chevron-left, .carousel-control .glyphicon-chevron-right, .carousel-control .icon-prev, .carousel-control .icon-next {
 	font-size: 42px;
 }
+
+.carousel-control .glyphicon-chevron-right, .carousel-control .icon-next {
+	margin-right: 0px;
+}
+
+/*** THE END SLIDE ***/
